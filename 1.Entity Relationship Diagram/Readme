@@ -1,1 +1,36 @@
+# Task 1 – Entity Relationship Diagram
 
+## Project
+Credit Card Approval Prediction Using Machine Learning
+
+## Objective
+
+Design an Entity Relationship Diagram (ERD) representing the database structure of the Credit Card Approval Prediction System.
+
+## Entities
+
+- Users
+- Applicant_Details
+- Credit_History
+- ML_Model
+- Approval_Prediction
+
+## Relationships
+
+- One User → Many Applicants
+- One Applicant → Many Credit History Records
+- One Applicant → One Approval Prediction
+- One ML Model → Many Predictions
+
+## Technologies Used
+
+- Draw.io / Lucidchart / Microsoft Visio
+- Database Design Concepts
+
+## Output
+
+The ER Diagram represents the complete database schema for storing applicant information, historical credit records, machine learning model details, and approval predictions.
+
+## Conclusion
+
+The ER Diagram provides a structured foundation for implementing the database required by the Credit Card Approval Prediction System and ensures efficient data organization and integrity.
