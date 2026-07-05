@@ -1,1 +1,49 @@
+# Task 3 – Project Workflow
 
+## Project
+Credit Card Approval Prediction Using Machine Learning
+
+## Objective
+
+Define the end-to-end workflow of the Credit Card Approval Prediction project, covering data collection, preprocessing, model development, evaluation, and deployment.
+
+## Workflow
+
+1. Environment Setup
+2. Data Collection
+3. Data Analysis
+4. Data Visualization
+5. Data Preprocessing
+6. Feature Engineering
+7. Model Building
+8. Model Evaluation
+9. Best Model Selection
+10. Flask Application Development
+11. Real-Time Prediction
+
+## Machine Learning Models
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- XGBoost
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- Flask
+- HTML/CSS
+
+## Outcome
+
+A complete machine learning pipeline that predicts credit card approval status using applicant information and deploys the best-performing model through a Flask web application.
+
+## Conclusion
+
+The structured workflow ensures efficient data processing, accurate model training, and successful deployment for real-time credit card approval prediction.
